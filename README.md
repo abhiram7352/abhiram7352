@@ -1,0 +1,5 @@
+- 👋 Hi there, I’m @abhiram7352
+- 🌱 I’m currently learning java language
+- 💞️ I'm looking to collaborate on learning new skills
+-     Ask me about any tech related stuff
+- 📫 How to reach me twitter.com/abhiram7352
