@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhiram Kumar</h1>
-<h3 align="center">A Passionate Java Full Stack Developer and Multi Cloud Expert from India</h3>
+<h3 align="center">A Passionate Java Full Stack Developer and GenAI Expert from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram7352&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram7352" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/abhiram7352" target="blank"><img src="https://img.shields.io/twitter/follow/abhiram7352?logo=twitter&style=for-the-badge" alt="abhiram7352" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working at **Capgemini**
 
-- 🌱 I’m currently learning **angular**
+- 🌱 I’m currently learning **Kafka**
 
-- 👯 I’m looking to collaborate on **Cloud and Java based project**
+- 👯 I’m looking to collaborate on **GenAI, Cloud and Java based project**
 
 - 🤝 I’m looking for help with **learning new skills**
 
